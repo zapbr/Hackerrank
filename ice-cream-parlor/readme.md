@@ -1,4 +1,4 @@
-### [Challenge Name: Ice Cream Parlor](/challenges/icecream-parlor)
+### [Challenge Name: Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)
 
 
 Each time Sunny and Johnny take a trip to the Ice Cream Parlor, they pool together $m$ dollars for ice cream. On any given day, the parlor offers a line of $n$ flavors. Each flavor, $i$, is numbered sequentially with a unique ID number from $1$ to $n$ and has a cost, $c_i$, associated with it.
