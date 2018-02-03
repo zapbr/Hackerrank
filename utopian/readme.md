@@ -1,4 +1,4 @@
-### [Challenge Name: Utopian Identification Number](/challenges/utopian-identification-number)
+### [Challenge Name: Utopian Identification Number](https://www.hackerrank.com/challenges/utopian-identification-number)
 
 
 A new identification number is given for every Citizen of the Country Utopia and it
